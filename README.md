@@ -9,3 +9,9 @@ VGA
  + VGA_Image_Generator
 
 Sound
+
+Mouse
+ + Mouse_Interface
+ + Host_Transceiver
+ + Debounce_Logic
+ 
