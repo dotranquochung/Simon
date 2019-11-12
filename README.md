@@ -1,6 +1,4 @@
 # Simon
-SIMON (Main)
-
 Base Project
  + Random_Number_Genertor
  + Clock
